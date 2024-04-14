@@ -1,0 +1,1 @@
+Recordar que al desplegarlo, la ruta es "dist" o "./dist"

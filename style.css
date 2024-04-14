@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap");
+
+:root {
+  --header-height: 4rem;
+  --color1: #f9f7f7;
+  --color2: #dbe2ef;
+  --color3: #3f72af;
+  --color4: #112d4e;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Comfortaa", cursive;
+  font-size: 16px;
+}
