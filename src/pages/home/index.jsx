@@ -1,3 +1,15 @@
+import Inicio from "./inicio";
+import Nosotros from "./nosotros";
+import Servicios from "./servicios";
+import Contacto from "./contacto";
+
 export default function App() {
-    return <>Home</>
+  return (
+    <>
+      <Inicio />
+      <Nosotros />
+      <Servicios />
+      <Contacto />
+    </>
+  );
 }
