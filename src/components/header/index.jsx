@@ -60,8 +60,8 @@ export default function App() {
                   <div style={{ marginRight: "1rem" }}>Facebook</div>
                   <div
                     style={{
-                      width: "3rem",
-                      height: "3rem",
+                      width: "50px",
+                      height: "50px",
                       backgroundImage: "url('/icons/facebook.svg')",
                       backgroundSize: "cover",
                       backgroundPosition: "center",

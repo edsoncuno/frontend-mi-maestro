@@ -1,2 +1,73 @@
 .container {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white;
+}
+
+.container .enlacesInternos {
+  margin: 0 5%;
+}
+
+.container .enlacesInternos .title {
+  margin: 1rem 0;
+}
+
+.container .enlacesInternos .listEnlacesInternos {
+  list-style-type: none;
+  text-align: center;
+}
+.container .enlacesInternos .listEnlacesInternos .itemEnlacesInternos {
+  margin-top: 0.5rem;
+}
+.container
+  .enlacesInternos
+  .listEnlacesInternos
+  .itemEnlacesInternos
+  .linkEnlacesInternos {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+}
+
+.container .informacionDeContacto {
+  margin: 0 5%;
+}
+
+.container .informacionDeContacto .title {
+  margin: 1rem 0;
+}
+.container .informacionDeContacto .listInformacionDeContacto {
+  list-style-type: none;
+  text-align: left;
+}
+
+.container
+  .informacionDeContacto
+  .listInformacionDeContacto
+  .itemInformacionDeContacto {
+  margin-bottom: 0.5rem;
+}
+
+.container .redesSociales {
+  margin: 0 5%;
+}
+
+.container .redesSociales .title {
+  margin: 1rem 0;
+}
+
+.container .redesSociales .listRedesSociales {
+  list-style-type: none;
+  text-align: center;
+}
+
+.container .redesSociales .listRedesSociales .itemRedesSociales {
+  margin-bottom: 0.5rem;
+}
+
+.container .copyright {
+  margin: 1rem 5%;
+  text-align: center;
 }
