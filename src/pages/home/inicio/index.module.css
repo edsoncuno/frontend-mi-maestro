@@ -106,6 +106,10 @@
   .container .shadow .content .lema {
     font-size: 2rem;
   }
+
+  .container .shadow .content .listRedesSociales .itemRedesSociales {
+    margin: 0 0 1rem 1rem;
+  }
 }
 
 @media (min-width: 768px) {
