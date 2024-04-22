@@ -1,0 +1,15 @@
+.carousel {
+  overflow: hidden;
+}
+
+.slider {
+  width: 300%;
+  display: flex;
+}
+
+.slide {
+  width: 300%;
+  height: 25rem;
+  background-size: cover;
+  background-position: center;
+}

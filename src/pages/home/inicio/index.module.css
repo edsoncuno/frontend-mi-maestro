@@ -28,8 +28,8 @@
 }
 
 .container .shadow .content .logo {
-  width: 15rem;
-  height: 7rem;
+  width: 10rem;
+  height: 5rem;
   background-image: url("/icons/mi-maestro-white-transparent.svg");
   background-size: contain;
   background-repeat: no-repeat;
