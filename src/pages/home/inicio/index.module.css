@@ -55,6 +55,7 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 2rem;
+  list-style-type: none;
 }
 
 .container .shadow .content .listRedesSociales .itemRedesSociales {
